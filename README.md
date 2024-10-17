@@ -4,18 +4,18 @@
   <img src="https://github.com/Rafael-TF/Portafolio/raw/main/public/RT.png" alt="Logo Rafael Travado" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 </div>
 
-### **Desarrollador Web Full Stack** con Formación en Derecho y Pasión por la Tecnología.
+### **Desarrollador Web Full Stack** con Formación en Derecho y Pasión por la Tecnología
 
-Después de completar mis estudios en Derecho, decidí seguir mi verdadera pasión: el desarrollo web. Mi capacidad de adaptación a nuevas tecnologías y mi deseo constante de aprender me permiten enfrentar desafíos complejos con soluciones innovadoras. Busco continuamente oportunidades que me permitan crecer, colaborar en proyectos de impacto y aportar valor a los equipos de trabajo.
+Después de completar mis estudios en Derecho, decidí seguir mi verdadera pasión: el desarrollo web. Mi capacidad de adaptación a nuevas tecnologías y mi deseo constante de aprender me permiten enfrentar desafíos complejos con soluciones innovadoras. Estoy en busca de oportunidades que me permitan crecer, colaborar en proyectos de impacto y aportar valor a los equipos de trabajo.
 
 ---
 
 ## 🌱 Acerca de mí
 
-- 🎓 **Formación en Derecho**, con un enfoque profesional en **Desarrollo Web Full Stack**.
+- 🎓 **Formación en Derecho**, con un enfoque en **Desarrollo Web Full Stack**.
 - 🔭 Actualmente, estoy trabajando en proyectos que combinan diseño, interactividad y rendimiento.
-- 💡 Siempre aprendiendo nuevas tecnologías, buscando formas de mejorar la experiencia del usuario y optimizando el rendimiento de las aplicaciones.
-- 🚀 Mi objetivo es impulsar proyectos digitales con **soluciones creativas y de calidad**, colaborando con equipos dinámicos y apasionados.
+- 💡 Siempre aprendiendo nuevas tecnologías para mejorar la experiencia del usuario.
+- 🚀 Mi objetivo es impulsar proyectos digitales con **soluciones creativas y de calidad**, colaborando con equipos apasionados.
 
 ---
 
@@ -37,8 +37,8 @@ Después de completar mis estudios en Derecho, decidí seguir mi verdadera pasi�
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <h2>Éxtasis Gastrobar</h2>
-  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/extasis/Extasis.png" alt="Éxtasis Gastrobar" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <h2 style="border-bottom: 2px solid #4A90E2; display: inline-block; padding-bottom: 10px;">🍽️ Éxtasis Gastrobar</h2>
+  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/extasis/Extasis.png" alt="Éxtasis Gastrobar" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
 </div>
 
 **Una experiencia gastronómica única en la web.**  
@@ -58,8 +58,8 @@ HTML5, CSS3, JavaScript, AOS.
 ---
 
 <div align="center">
-  <h2>EffiDo</h2>
-  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/effido/EFFIDO.jpg" alt="EffiDo" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <h2 style="border-bottom: 2px solid #4A90E2; display: inline-block; padding-bottom: 10px;">📝 EffiDo</h2>
+  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/effido/EFFIDO.jpg" alt="EffiDo" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
 </div>
 
 **Gestión de Tareas Moderna y Eficiente.**  
@@ -81,18 +81,22 @@ React, Material-UI, Recharts, Node.js, Express, MongoDB.
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-TF&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Estadísticas de GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-TF&layout=compact&theme=radical&hide=css" alt="Lenguajes más Usados" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-TF&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Estadísticas de GitHub" width="400" style="margin: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-TF&layout=compact&theme=radical&hide=css" alt="Lenguajes más Usados" width="400" style="margin: 20px;"/>
 </div>
 
 ---
 
 ## 🌐 Contacto
 
-📫 **Correo Electrónico:** [rafa_trafeg@hotmail.com](mailto:rafa_trafeg@hotmail.com)  
-🌐 **Portfolio:** [rafaeltravado.netlify.app](https://rafaeltravado.netlify.app/)  
-💼 **LinkedIn:** [linkedin.rafael-travado](https://www.linkedin.com/in/rafael-travado-4a1b6437/)
+<div align="center">
+  <p style="font-size: 18px;">📫 **Correo Electrónico:** <a href="mailto:rafa_trafeg@hotmail.com">rafa_trafeg@hotmail.com</a></p>
+  <p style="font-size: 18px;">🌐 **Portfolio:** <a href="https://rafaeltravado.netlify.app/">rafaeltravado.netlify.app</a></p>
+  <p style="font-size: 18px;">💼 **LinkedIn:** <a href="https://www.linkedin.com/in/rafael-travado-4a1b6437/">linkedin.rafael-travado</a></p>
+</div>
 
 ---
 
-¡Gracias por visitar mi perfil! Estoy emocionado de conectar y colaborar en proyectos apasionantes. 🚀
+<div align="center">
+  <p style="font-size: 14px; color: #555;">¡Gracias por visitar mi perfil! Estoy emocionado de conectar y colaborar en proyectos apasionantes. 🚀</p>
+</div>
