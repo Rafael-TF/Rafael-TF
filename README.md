@@ -92,7 +92,7 @@ React, Material-UI, Recharts, Node.js, Express, MongoDB.
 
 📫 **Correo Electrónico:** [rafa_trafeg@hotmail.com](mailto:rafa_trafeg@hotmail.com)  
 🌐 **Portfolio:** [rafaeltravado.netlify.app](https://rafaeltravado.netlify.app/)  
-💼 **LinkedIn:** (https://www.linkedin.com/in/rafael-travado-4a1b6437/)
+💼 **LinkedIn:** [linkedin.rafael-travado](https://www.linkedin.com/in/rafael-travado-4a1b6437/)
 
 ---
 
