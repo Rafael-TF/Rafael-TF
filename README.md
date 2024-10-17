@@ -16,28 +16,12 @@ Tras finalizar mis estudios en Derecho, decidí seguir mi verdadera pasión: el 
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-- **Backend**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-- **Bases de Datos**:  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **Cloud y Herramientas**:  
-  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+| **Frontend** | **Backend** | **Bases de Datos** | **Cloud y Herramientas** |
+|--------------|-------------|--------------------|--------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+|              |             |                    | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 ---
 
@@ -56,9 +40,8 @@ Este proyecto fue diseñado para mejorar la experiencia del usuario en un sitio 
 📚 **Tecnologías Usadas:**  
 HTML5, CSS3, JavaScript, AOS.
 
-🔗 **Ver el proyecto desplegado:** [Éxtasis Gastrobar](https://extasis-gastrobar-rafaeltravado.netlify.app/)
-
-[Ver Repositorio](https://github.com/Rafael-TF/Restaurante)
+🔗 **Ver el proyecto:** [Éxtasis Gastrobar](https://extasis-gastrobar-rafaeltravado.netlify.app/)  
+🔗 [Ver Repositorio](https://github.com/Rafael-TF/Restaurante)
 
 ---
 
@@ -75,15 +58,14 @@ EffiDo es una aplicación web diseñada para organizar tareas y mejorar la produ
 📚 **Tecnologías Usadas:**  
 React, Material-UI, Recharts, Node.js, Express, MongoDB.
 
-🔗 **Ver el proyecto desplegado:** [EffiDo](https://effido.onrender.com/)
-
-[Ver Repositorio](https://github.com/Rafael-TF/EffiDo)
+🔗 **Ver el proyecto:** [EffiDo](https://effido.onrender.com/)  
+🔗 [Ver Repositorio](https://github.com/Rafael-TF/EffiDo)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Rafael-TF&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Rafael-TF&show_icons=true&theme=radical)  
 ![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-TF&layout=compact&theme=radical)
 
 ---
