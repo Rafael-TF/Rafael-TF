@@ -29,6 +29,8 @@ Tras finalizar mis estudios en Derecho, decidí seguir mi verdadera pasión: el 
 
 ### 🍽️ [Éxtasis Gastrobar](https://github.com/Rafael-TF/Restaurante)
 
+![Éxtasis Gastrobar]([https://link-a-la-imagen.com/imagen_gastrobar.jpg](https://media.licdn.com/dms/image/v2/D4D2DAQEUuda7P0hTyg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1723229380083?e=1729760400&v=beta&t=72psaaWZIEjbuRXGHL-yFRJQyObDDCL4JFyLeuH6Mj0)) <!-- Reemplaza este enlace con la URL de tu imagen -->
+
 **Una experiencia gastronómica única en la web.**  
 Este proyecto fue diseñado para mejorar la experiencia del usuario en un sitio web de restaurante, optimizando tanto el rendimiento como la estética. Entre las características implementadas destacan:
 
@@ -40,12 +42,14 @@ Este proyecto fue diseñado para mejorar la experiencia del usuario en un sitio 
 📚 **Tecnologías Usadas:**  
 HTML5, CSS3, JavaScript, AOS.
 
-🔗 **Ver el proyecto:** [Éxtasis Gastrobar](https://extasis-gastrobar-rafaeltravado.netlify.app/)  
+🔗 **Ver el proyecto desplegado:** [Éxtasis Gastrobar](https://extasis-gastrobar-rafaeltravado.netlify.app/)  
 🔗 [Ver Repositorio](https://github.com/Rafael-TF/Restaurante)
 
 ---
 
 ### 📝 [EffiDo](https://github.com/Rafael-TF/EffiDo)
+
+![EffiDo]([https://link-a-la-imagen.com/imagen_effido.jpg](https://media.licdn.com/dms/image/v2/D4D2DAQEsLWkmusoBVw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1729076325421?e=1729760400&v=beta&t=3_At_E4DVyUGL4R82Bgs9A4otWZ2kULPkMWpeWahVGA)) <!-- Reemplaza este enlace con la URL de tu imagen -->
 
 **Gestión de Tareas Moderna y Eficiente.**  
 EffiDo es una aplicación web diseñada para organizar tareas y mejorar la productividad, con un sistema intuitivo y dinámico. Las principales características incluyen:
@@ -58,7 +62,7 @@ EffiDo es una aplicación web diseñada para organizar tareas y mejorar la produ
 📚 **Tecnologías Usadas:**  
 React, Material-UI, Recharts, Node.js, Express, MongoDB.
 
-🔗 **Ver el proyecto:** [EffiDo](https://effido.onrender.com/)  
+🔗 **Ver el proyecto desplegado:** [EffiDo](https://effido.onrender.com/)  
 🔗 [Ver Repositorio](https://github.com/Rafael-TF/EffiDo)
 
 ---
@@ -75,11 +79,3 @@ React, Material-UI, Recharts, Node.js, Express, MongoDB.
 📫 **Correo Electrónico:** [rafa_trafeg@hotmail.com](mailto:rafa_trafeg@hotmail.com)  
 🌐 **Portfolio:** [rafaeltravado.netlify.app](https://rafaeltravado.netlify.app/)  
 💼 **LinkedIn:** [linkedin.rafael-travado](https://www.linkedin.com/in/rafael-travado-4a1b6437/)
-
----
-
-### ✨ Reflexión Final
-
-Cada proyecto es una oportunidad de crecimiento, y estoy convencido de que las soluciones innovadoras son la clave para crear experiencias digitales impactantes. ¡Estoy emocionado por seguir aprendiendo y afrontar nuevos desafíos!
-
-> “La tecnología nos ayuda a resolver problemas, pero es la pasión por aprender y mejorar lo que realmente impulsa la innovación."
