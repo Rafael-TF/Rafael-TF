@@ -1,12 +1,13 @@
 # 👋 ¡Hola! Soy Rafael Travado
 
-### Desarrollador Web Full Stack con Formación en Derecho y Pasión por la Tecnología.
+### **Desarrollador Web Full Stack** con Formación en Derecho y Pasión por la Tecnología.
 
 Tras finalizar mis estudios en Derecho, decidí seguir mi verdadera pasión: el desarrollo web. Mi capacidad de adaptación a nuevas tecnologías y el deseo constante de aprender me permiten enfrentar desafíos complejos con soluciones innovadoras. Estoy siempre en la búsqueda de oportunidades que me permitan seguir creciendo, colaborar en proyectos con impacto y aportar valor a equipos de trabajo.
 
 ---
 
-### 🌱 Acerca de mí
+## 🌱 Acerca de mí
+
 - 🎓 **Formación en Derecho**, con un giro profesional hacia el **Desarrollo Web Full Stack**.
 - 🔭 Actualmente, me encuentro trabajando en proyectos de desarrollo web que combinan diseño, interactividad y rendimiento.
 - 💡 Siempre estoy aprendiendo nuevas tecnologías, buscando formas de mejorar la experiencia del usuario y optimizando el rendimiento de las aplicaciones.
@@ -27,8 +28,8 @@ Tras finalizar mis estudios en Derecho, decidí seguir mi verdadera pasión: el 
 
 ## 🚀 Proyectos Destacados
 
-### 🍽️ [Éxtasis Gastrobar](https://github.com/Rafael-TF/Restaurante)
-<img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/extasis/Extasis.png" alt="Éxtasis Gastrobar" width="300"/>
+### 🍽️ Éxtasis Gastrobar
+<img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/extasis/Extasis.png" alt="Éxtasis Gastrobar" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
 **Una experiencia gastronómica única en la web.**  
 Este proyecto fue diseñado para mejorar la experiencia del usuario en un sitio web de restaurante, optimizando tanto el rendimiento como la estética. Entre las características implementadas destacan:
@@ -46,8 +47,8 @@ HTML5, CSS3, JavaScript, AOS.
 
 ---
 
-### 📝 [EffiDo](https://github.com/Rafael-TF/EffiDo)
-<img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/effido/EFFIDO.jpg" alt="EffiDo" width="300"/>
+### 📝 EffiDo
+<img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/effido/EFFIDO.jpg" alt="EffiDo" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
 
 **Gestión de Tareas Moderna y Eficiente.**  
 EffiDo es una aplicación web diseñada para organizar tareas y mejorar la productividad, con un sistema intuitivo y dinámico. Las principales características incluyen:
@@ -67,8 +68,10 @@ React, Material-UI, Recharts, Node.js, Express, MongoDB.
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Rafael-TF&show_icons=true&theme=radical)  
-![Lenguajes más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-TF&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-TF&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Estadísticas de GitHub" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-TF&layout=compact&theme=radical&hide=css" alt="Lenguajes más Usados" width="400"/>
+</div>
 
 ---
 
