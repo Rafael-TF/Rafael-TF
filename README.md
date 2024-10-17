@@ -52,7 +52,7 @@ Este proyecto está diseñado para mejorar la experiencia del usuario en un siti
 📚 **Tecnologías Usadas:**  
 HTML5, CSS3, JavaScript, AOS.
 
-🔗 **Ver el proyecto desplegado:** [Éxtasis Gastrobar](https://extasis-gastrobar-rafaeltravado.netlify.app/)  
+🔗 **Ver el proyecto:** [Éxtasis Gastrobar](https://extasis-gastrobar-rafaeltravado.netlify.app/)  
 🔗 [Ver Repositorio](https://github.com/Rafael-TF/Restaurante)
 
 ---
@@ -73,7 +73,7 @@ EffiDo es una aplicación web diseñada para organizar tareas y mejorar la produ
 📚 **Tecnologías Usadas:**  
 React, Material-UI, Recharts, Node.js, Express, MongoDB.
 
-🔗 **Ver el proyecto desplegado:** [EffiDo](https://effido.onrender.com/)  
+🔗 **Ver el proyecto:** [EffiDo](https://effido.onrender.com/)  
 🔗 [Ver Repositorio](https://github.com/Rafael-TF/EffiDo)
 
 ---
