@@ -29,7 +29,7 @@ Tras finalizar mis estudios en Derecho, decidí seguir mi verdadera pasión: el 
 
 ### 🍽️ [Éxtasis Gastrobar](https://github.com/Rafael-TF/Restaurante)
 
-![Éxtasis Gastrobar]([https://link-a-la-imagen.com/imagen_gastrobar.jpg](https://media.licdn.com/dms/image/v2/D4D2DAQEUuda7P0hTyg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1723229380083?e=1729760400&v=beta&t=72psaaWZIEjbuRXGHL-yFRJQyObDDCL4JFyLeuH6Mj0)) <!-- Reemplaza este enlace con la URL de tu imagen -->
+(https://media.licdn.com/dms/image/v2/D4D2DAQEUuda7P0hTyg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1723229380083?e=1729760400&v=beta&t=72psaaWZIEjbuRXGHL-yFRJQyObDDCL4JFyLeuH6Mj0) <!-- Reemplaza este enlace con la URL de tu imagen -->
 
 **Una experiencia gastronómica única en la web.**  
 Este proyecto fue diseñado para mejorar la experiencia del usuario en un sitio web de restaurante, optimizando tanto el rendimiento como la estética. Entre las características implementadas destacan:
