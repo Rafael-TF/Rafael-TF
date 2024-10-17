@@ -29,8 +29,6 @@ Tras finalizar mis estudios en Derecho, decidí seguir mi verdadera pasión: el 
 
 ### 🍽️ [Éxtasis Gastrobar](https://github.com/Rafael-TF/Restaurante)
 
-(https://media.licdn.com/dms/image/v2/D4D2DAQEUuda7P0hTyg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1723229380083?e=1729760400&v=beta&t=72psaaWZIEjbuRXGHL-yFRJQyObDDCL4JFyLeuH6Mj0) <!-- Reemplaza este enlace con la URL de tu imagen -->
-
 **Una experiencia gastronómica única en la web.**  
 Este proyecto fue diseñado para mejorar la experiencia del usuario en un sitio web de restaurante, optimizando tanto el rendimiento como la estética. Entre las características implementadas destacan:
 
@@ -48,8 +46,6 @@ HTML5, CSS3, JavaScript, AOS.
 ---
 
 ### 📝 [EffiDo](https://github.com/Rafael-TF/EffiDo)
-
-![EffiDo]([https://link-a-la-imagen.com/imagen_effido.jpg](https://media.licdn.com/dms/image/v2/D4D2DAQEsLWkmusoBVw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1729076325421?e=1729760400&v=beta&t=3_At_E4DVyUGL4R82Bgs9A4otWZ2kULPkMWpeWahVGA)) <!-- Reemplaza este enlace con la URL de tu imagen -->
 
 **Gestión de Tareas Moderna y Eficiente.**  
 EffiDo es una aplicación web diseñada para organizar tareas y mejorar la productividad, con un sistema intuitivo y dinámico. Las principales características incluyen:
