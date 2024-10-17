@@ -1,21 +1,26 @@
 # 👋 ¡Hola! Soy **Rafael Travado**
 
 <div align="center">
-  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/public/RT.png" alt="Logo Rafael Travado" width="150" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/public/RT.png" alt="Logo Rafael Travado" width="150" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </div>
 
-### **Desarrollador Web Full Stack** con Formación en Derecho y Pasión por la Tecnología
+### **Desarrollador Web Full Stack con Formación en Derecho y Pasión por la Tecnología**
 
-Después de completar mis estudios en Derecho, decidí seguir mi verdadera pasión: el desarrollo web. Mi capacidad de adaptación a nuevas tecnologías y mi deseo constante de aprender me permiten enfrentar desafíos complejos con soluciones innovadoras. Estoy en busca de oportunidades que me permitan crecer, colaborar en proyectos de impacto y aportar valor a los equipos de trabajo.
+Soy un **Desarrollador Web Full Stack** con un background en Derecho, lo que me brinda una perspectiva única para abordar problemas complejos y desarrollar soluciones innovadoras. Mi trayectoria en la tecnología está marcada por un compromiso constante con el aprendizaje y la adaptación, buscando siempre contribuir en proyectos que generen un impacto significativo.
 
 ---
 
 ## 🌱 Acerca de mí
 
-- 🎓 **Formación en Derecho**, con un enfoque en **Desarrollo Web Full Stack**.
-- 🔭 Actualmente, estoy trabajando en proyectos que combinan diseño, interactividad y rendimiento.
-- 💡 Siempre aprendiendo nuevas tecnologías para mejorar la experiencia del usuario.
-- 🚀 Mi objetivo es impulsar proyectos digitales con **soluciones creativas y de calidad**, colaborando con equipos apasionados.
+<div align="center">
+  <img src="https://img.shields.io/badge/Desarrollador%20Web-4A90E2?style=for-the-badge&logo=html5&logoColor=white" alt="Desarrollador Web"/>
+  <img src="https://img.shields.io/badge/Formación%20en%20Derecho-8E44AD?style=for-the-badge&logo=law&logoColor=white" alt="Formación en Derecho"/>
+</div>
+
+- 🎓 **Desarrollador Web Full Stack** con **formación en Derecho**.
+- 🔭 Actualmente trabajando en proyectos que combinan **diseño**, **interactividad** y **rendimiento**.
+- 💡 Apasionado por aprender nuevas tecnologías para mejorar la experiencia del usuario.
+- 🚀 Buscando oportunidades para colaborar en proyectos digitales que ofrezcan **soluciones creativas** y de **calidad**.
 
 ---
 
@@ -37,52 +42,46 @@ Después de completar mis estudios en Derecho, decidí seguir mi verdadera pasi�
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <h2 style="border-bottom: 2px solid #4A90E2; display: inline-block; padding-bottom: 10px;">🍽️ Éxtasis Gastrobar</h2>
-  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/extasis/Extasis.png" alt="Éxtasis Gastrobar" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
+  <h2 style="color: #4A90E2; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">🍽️ Éxtasis Gastrobar</h2>
+  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/extasis/Extasis.png" alt="Éxtasis Gastrobar" width="400" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 20px 0;"/>
+  <p style="font-size: 18px; max-width: 600px;">Una experiencia gastronómica única en la web, optimizada para mejorar la estética y el rendimiento.</p>
 </div>
 
-**Una experiencia gastronómica única en la web.**  
-Este proyecto está diseñado para mejorar la experiencia del usuario en un sitio web de restaurante, optimizando tanto el rendimiento como la estética. Entre las características implementadas destacan:
-
-- **✨ Diseño Responsive:** Optimizado para todos los dispositivos, ofreciendo una experiencia fluida y atractiva.
+**Características:**
+- **✨ Diseño Responsive:** Adaptado para todos los dispositivos, garantizando una experiencia fluida y atractiva.
 - **🍽️ Interactividad Mejorada:** Menú hamburguesa con animaciones suaves y carga diferida de imágenes.
-- **🛠️ Filtrado Dinámico:** Los usuarios pueden explorar el menú por categorías (aperitivos, entrantes, platos principales, postres).
-- **🎨 Animaciones Suaves:** Uso de AOS (Animate On Scroll) para animaciones al hacer scroll.
+- **🛠️ Filtrado Dinámico:** Explora el menú por categorías (aperitivos, entrantes, platos principales, postres).
+- **🎨 Animaciones Suaves:** AOS (Animate On Scroll) para una experiencia de scroll dinámica.
 
-📚 **Tecnologías Usadas:**  
-HTML5, CSS3, JavaScript, AOS.
-
+📚 **Tecnologías Usadas:** HTML5, CSS3, JavaScript, AOS.  
 🔗 **Ver el proyecto:** [Éxtasis Gastrobar](https://extasis-gastrobar-rafaeltravado.netlify.app/)  
-🔗 [Ver Repositorio](https://github.com/Rafael-TF/Restaurante)
+🔗 **Ver Repositorio:** [GitHub](https://github.com/Rafael-TF/Restaurante)
 
 ---
 
 <div align="center">
-  <h2 style="border-bottom: 2px solid #4A90E2; display: inline-block; padding-bottom: 10px;">📝 EffiDo</h2>
-  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/effido/EFFIDO.jpg" alt="EffiDo" width="400" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 20px 0;"/>
+  <h2 style="color: #4A90E2; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">📝 EffiDo</h2>
+  <img src="https://github.com/Rafael-TF/Portafolio/raw/main/src/Recursos/effido/EFFIDO.jpg" alt="EffiDo" width="400" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); margin: 20px 0;"/>
+  <p style="font-size: 18px; max-width: 600px;">Gestión de Tareas Moderna y Eficiente, diseñada para mejorar la productividad.</p>
 </div>
 
-**Gestión de Tareas Moderna y Eficiente.**  
-EffiDo es una aplicación web diseñada para organizar tareas y mejorar la productividad, con un sistema intuitivo y dinámico. Las principales características incluyen:
-
-- **Organización Intuitiva:** Permite a los usuarios priorizar tareas de manera sencilla.
+**Características:**
+- **Organización Intuitiva:** Prioriza tareas de manera sencilla.
 - **Visualización del Progreso:** Gráficos dinámicos que muestran el avance de las tareas.
 - **Sistema de Gamificación:** Mantiene la motivación alta a través de un sistema de recompensas.
-- **Personalización:** Los usuarios pueden ajustar la experiencia según sus preferencias.
+- **Personalización:** Ajusta la experiencia según las preferencias del usuario.
 
-📚 **Tecnologías Usadas:**  
-React, Material-UI, Recharts, Node.js, Express, MongoDB.
-
+📚 **Tecnologías Usadas:** React, Material-UI, Recharts, Node.js, Express, MongoDB.  
 🔗 **Ver el proyecto:** [EffiDo](https://effido.onrender.com/)  
-🔗 [Ver Repositorio](https://github.com/Rafael-TF/EffiDo)
+🔗 **Ver Repositorio:** [GitHub](https://github.com/Rafael-TF/EffiDo)
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-TF&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Estadísticas de GitHub" width="400" style="margin: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-TF&layout=compact&theme=radical&hide=css" alt="Lenguajes más Usados" width="400" style="margin: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-TF&show_icons=true&theme=radical&hide=prs&count_private=true" alt="Estadísticas de GitHub" width="400" style="margin: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-TF&layout=compact&theme=radical&hide=css" alt="Lenguajes más Usados" width="400" style="margin: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </div>
 
 ---
@@ -90,13 +89,13 @@ React, Material-UI, Recharts, Node.js, Express, MongoDB.
 ## 🌐 Contacto
 
 <div align="center">
-  <p style="font-size: 18px;">📫 **Correo Electrónico:** <a href="mailto:rafa_trafeg@hotmail.com">rafa_trafeg@hotmail.com</a></p>
-  <p style="font-size: 18px;">🌐 **Portfolio:** <a href="https://rafaeltravado.netlify.app/">rafaeltravado.netlify.app</a></p>
-  <p style="font-size: 18px;">💼 **LinkedIn:** <a href="https://www.linkedin.com/in/rafael-travado-4a1b6437/">linkedin.rafael-travado</a></p>
+  <p style="font-size: 18px; color: #333;"><strong>📫 Correo Electrónico:</strong> <a href="mailto:rafa_trafeg@hotmail.com">rafa_trafeg@hotmail.com</a></p>
+  <p style="font-size: 18px; color: #333;"><strong>🌐 Portfolio:</strong> <a href="https://rafaeltravado.netlify.app/">rafaeltravado.netlify.app</a></p>
+  <p style="font-size: 18px; color: #333;"><strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/rafael-travado-4a1b6437/">linkedin.rafael-travado</a></p>
 </div>
 
 ---
 
-<div align="center">
-  <p style="font-size: 14px; color: #555;">¡Gracias por visitar mi perfil! Estoy emocionado de conectar y colaborar en proyectos apasionantes. 🚀</p>
+<div align="center" style="margin-top: 30px;">
+  <p style="font-size: 16px; color: #555;">¡Gracias por visitar mi perfil! Estoy emocionado de conectar y colaborar en proyectos apasionantes. 🚀</p>
 </div>
